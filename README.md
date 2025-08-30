@@ -81,7 +81,6 @@ These represent **realistic user interactions**: information-seeking, structured
 * **Chain-of-Thought prompting** → best for reasoning and problem-solving.
 * **Few-shot prompting** → stabilizes style but increases token cost.
 * **Role-based prompting** → customizes tone and improves engagement.
-  <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/d6c60736-5ff4-4dd0-8ccc-4144b12074a1" />
 
 
 
